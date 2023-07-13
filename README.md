@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Azizul Hakim 👋
 
 <!--
 **azizulhakim13/azizulhakim13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Skilled Frontend Web Developer with expertise in creating interactive and user-friendly interfaces, utilizing modern technologies and best practices to deliver engaging web experiences. ⚡
+<div>
+  <img src="https://github.com/azizulhakim13/azizulhakim13/assets/52504999/0b8eabcf-e5d6-4ad6-9bb7-fc7a1916420f)https://github.com/azizulhakim13/azizulhakim13/assets/52504999/0b8eabcf-e5d6-4ad6-9bb7-fc7a1916420f"/>
+</div>
