@@ -59,12 +59,15 @@ Skilled Frontend Web Developer with expertise in creating interactive and user-f
 </table>
 </p>
 
-<br />
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=azizulhakim13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <br />
-## 🌐 Socials:
+# 🌐 Socials:
+<br />
+<br />
+
 <a href="mailto:mah.azizulhakim.sust@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
