@@ -21,7 +21,6 @@ I care about clarity, maintainability, and making things that feel good to use.
 - 🌍 Comfortable with <strong>remote collaboration</strong> and cross-functional teamwork  
 - 🎯 Interested in <strong>UI/UX thinking, SEO, and product-focused development</strong>  
 - 🤝 Open to <strong>freelance projects</strong> and meaningful collaborations  
-- 🌐 Portfolio: <a href="https://azizulhakim13.github.io/azizul-hakim/">azizulhakim13.github.io/azizul-hakim</a>  
 
 <br clear="right" />
 
