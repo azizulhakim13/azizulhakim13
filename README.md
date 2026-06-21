@@ -83,8 +83,7 @@ Some things I’ve worked on recently:
 - 🏫 **Haileybury Bhaluka** – School website with structured content, UI/UX and on-page SEO  
 - 🎫 **Visitor App** – Internal portal for managing events & visitors with clean dashboards
 
-You can explore more in my  
-👉 **Portfolio:** <a href="https://azizulhakim13.github.io/azizul-hakim/">azizulhakim13.github.io/azizul-hakim</a>
+
 
 ---
 
